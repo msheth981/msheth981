@@ -1,16 +1,15 @@
-## Hi there 👋
+## Hey there, I’m Milouni 👋
 
-<!--
-**msheth981/msheth981** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I’m an MBA in Business Analysis graduate, with hands-on experience in analyzing the data, predictive modeling, and visualization using tools like SQL, Python, RapidMiner, Excel, Tableau, and Power BI. I’m passionate about transforming data into insights that support smarter and faster business decisions.
 
-Here are some ideas to get you started:
+Projects: My portfolio includes work in predictive modeling, dashboard creation, workflow automation, and strategic analysis — from building an Employee Attrition Prediction model, to designing interactive KPI dashboards, to presenting a Coca-Cola acquisition strategy that was recognized as a Capstone finalist. Explore my work and let’s connect!
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+• 💼 I’m actively seeking analytics and data-driven roles where I can leverage my skills in SQL, Python, Tableau, and Power BI.
+
+• 🤝 I’m open to collaboration on projects involving predictive modeling, dashboards, and process optimization.
+
+• 📘 I’m passionate about data storytelling, analytics innovation, and market research, always eager to learn and share insights.
+
+• 🌱 I’m constantly improving my skills in machine learning methods and cloud-based analytics tools.
+
+• 📝 Ask me about my recent projects in predictive analytics, visualization dashboards, or strategic case studies!
