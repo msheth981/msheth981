@@ -1,4 +1,4 @@
-## Hey there, I’m Milouni 👋
+## Hey there,  I’m Milouni 👋
 
 I’m an MBA in Business Analysis graduate, with hands-on experience in analyzing the data, predictive modeling, and visualization using tools like SQL, Python, RapidMiner, Excel, Tableau, and Power BI. I’m passionate about transforming data into insights that support smarter and faster business decisions.
 
